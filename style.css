@@ -1,0 +1,60 @@
+#title{
+    background-color: #807e98;
+    color: white;
+    padding: 3% 15%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.footcon {
+    color: white;
+}
+.navbar-brand {
+  font-size: large;
+  font-family: sans-serif;
+}
+.logo {
+    height: 80px;
+    width: 80px;
+}
+.head {
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+.right {
+    padding-left: 620px;
+}
+.scroll {
+    text-align: center;
+}
+.timg {
+    border-radius: 400px;
+}
+.timg2 {
+    border-radius: 400px; 
+}
+.timg3 {
+    border-radius: 400px;
+}
+footer {
+    background-color: #807e98;
+}
+#foot {
+    padding: 50px;
+    color: white;
+}
+.form {
+    margin-left: 100px;
+}
+
+hr {
+    width: 30%;
+}
+.foot2 {
+    line-height: 25px;
+}
+
+.form {
+    margin-left: 100px;
+}
